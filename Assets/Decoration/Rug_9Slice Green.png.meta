@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rug_9Slice Green_0: 9079184713765783778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
