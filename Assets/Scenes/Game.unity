@@ -517,7 +517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2539668621424575346, guid: e524f9e28302ce14192cf4b063a2aa62, type: 3}
       propertyPath: m_Name
-      value: Remaining_Collectibles_UI
+      value: MiceEatenText
       objectReference: {fileID: 0}
     - target: {fileID: 5169437076382942201, guid: e524f9e28302ce14192cf4b063a2aa62, type: 3}
       propertyPath: m_Pivot.x
